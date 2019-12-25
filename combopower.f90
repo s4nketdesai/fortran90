@@ -1,4 +1,6 @@
-      program combopower
+     !this code uses both bisectionmethod and newton rhapson to find root of a given function over a given interval
+     !interval is decided by a and b & function is called from subroutine
+     program combopower
               logical kk
               logical ss
               j=0
